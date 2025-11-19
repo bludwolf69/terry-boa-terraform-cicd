@@ -13,7 +13,7 @@ variable "machine_size" {
 
 variable "vm_name" {
   type = string
-  # default = "ashu-vm-day2"
+  default = "Terry_vm"
 }
 
 variable "my_aws_region" {
